@@ -1,0 +1,1711 @@
+_id,idx,vervar,var,turvar,tahun,turtahun,nilai
+1,0,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2000,,781125
+2,1,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2001,,729100
+3,2,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2002,,693103
+4,3,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2003,,724771
+5,4,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2004,,818520
+6,5,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2005,,907158
+7,6,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2006,,1038270
+8,7,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2007,,1162980
+9,8,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2008,,1301110
+10,9,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2009,,1056750
+11,10,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2010,,1278490
+12,11,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2011,,1480290
+13,12,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2012,,1545710
+14,13,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2013,,1579050
+15,14,Amerika Serikat,Neraca Perdagangan beberapa Negara,Ekspor,2014,,1623410
+16,15,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2000,,1259300
+17,16,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2001,,1179180
+18,17,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2002,,1200230
+19,18,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2003,,1303050
+20,19,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2004,,1525680
+21,20,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2005,,1735060
+22,21,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2006,,1918080
+23,22,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2007,,2020400
+24,23,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2008,,2169490
+25,24,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2009,,1605300
+26,25,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2010,,1969180
+27,26,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2011,,2265890
+28,27,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2012,,2336520
+29,28,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2013,,2329060
+30,29,Amerika Serikat,Neraca Perdagangan beberapa Negara,Impor,2014,,2410440
+31,30,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,478175
+32,31,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,450080
+33,32,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,507127
+34,33,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,1073163545
+35,34,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,707160
+36,35,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,827902
+37,36,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,879810
+38,37,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,857420
+39,38,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,868380
+40,39,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,548550
+41,40,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,690690
+42,41,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,785600
+43,42,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,790810
+44,43,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,750010
+45,44,Amerika Serikat,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,787030
+46,45,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+47,46,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+48,47,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+49,48,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+50,49,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2004,,125997
+51,50,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2005,,180736
+52,51,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2006,,211306
+53,52,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2007,,233300
+54,53,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2008,,313427
+55,54,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2009,,192296
+56,55,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2010,,251147
+57,56,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2011,,364699
+58,57,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2012,,388400
+59,58,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2013,,375934
+60,59,Arab Saudi,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+61,60,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2000,,
+62,61,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2001,,
+63,62,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2002,,
+64,63,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2003,,
+65,64,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2004,,44744
+66,65,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2005,,59458
+67,66,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2006,,69800
+68,67,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2007,,90215
+69,68,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2008,,115133
+70,69,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2009,,95544
+71,70,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2010,,106864
+72,71,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2011,,131587
+73,72,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2012,,155592
+74,73,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2013,,163902
+75,74,Arab Saudi,Neraca Perdagangan beberapa Negara,Impor,2014,,
+76,75,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+77,76,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+78,77,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+79,78,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+80,79,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,81253
+81,80,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,121278
+82,81,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,141506
+83,82,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,143086
+84,83,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,198294
+85,84,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,96752
+86,85,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,144283
+87,86,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,233112
+88,87,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,232808
+89,88,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,212032
+90,89,Arab Saudi,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+91,90,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2000,,63878
+92,91,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2001,,63389
+93,92,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2002,,65036
+94,93,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2003,,71551
+95,94,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2004,,86420
+96,95,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2005,,105833
+97,96,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2006,,123316
+98,97,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2007,,141122
+99,98,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2008,,186965
+100,99,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2009,,153884
+101,100,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2010,,212337
+102,101,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2011,,271733
+103,102,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2012,,256675
+104,103,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2013,,252981
+105,104,Australia,Neraca Perdagangan beberapa Negara,Ekspor,2014,,241160
+106,105,Australia,Neraca Perdagangan beberapa Negara,Impor,2000,,71537
+107,106,Australia,Neraca Perdagangan beberapa Negara,Impor,2001,,63890
+108,107,Australia,Neraca Perdagangan beberapa Negara,Impor,2002,,72693
+109,108,Australia,Neraca Perdagangan beberapa Negara,Impor,2003,,89089
+110,109,Australia,Neraca Perdagangan beberapa Negara,Impor,2004,,109383
+111,110,Australia,Neraca Perdagangan beberapa Negara,Impor,2005,,125283
+112,111,Australia,Neraca Perdagangan beberapa Negara,Impor,2006,,139279
+113,112,Australia,Neraca Perdagangan beberapa Negara,Impor,2007,,165364
+114,113,Australia,Neraca Perdagangan beberapa Negara,Impor,2008,,200273
+115,114,Australia,Neraca Perdagangan beberapa Negara,Impor,2009,,165470
+116,115,Australia,Neraca Perdagangan beberapa Negara,Impor,2010,,193201
+117,116,Australia,Neraca Perdagangan beberapa Negara,Impor,2011,,234357
+118,117,Australia,Neraca Perdagangan beberapa Negara,Impor,2012,,250560
+119,118,Australia,Neraca Perdagangan beberapa Negara,Impor,2013,,232595
+120,119,Australia,Neraca Perdagangan beberapa Negara,Impor,2014,,227626
+121,120,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,7659
+122,121,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,501
+123,122,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,7657
+124,123,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,17539
+125,124,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,22962
+126,125,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,19449
+127,126,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,15963
+128,127,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,24241
+129,128,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,13308
+130,129,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,11587
+131,130,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,19136
+132,131,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,37376
+133,132,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,6115
+134,133,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,20385
+135,134,Australia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,13534
+136,135,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+137,136,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+138,137,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+139,138,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+140,139,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2004,,6615
+141,140,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2005,,7233
+142,141,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2006,,9103
+143,142,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2007,,10233
+144,143,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2008,,11777
+145,144,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2009,,12443
+146,145,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2010,,14195
+147,146,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2011,,19807
+148,147,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2012,,25113
+149,148,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2013,,27033
+150,149,Bangladesh,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+151,150,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2000,,
+152,151,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2001,,
+153,152,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2002,,
+154,153,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2003,,
+155,154,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2004,,12611
+156,155,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2005,,12881
+157,156,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2006,,14964
+158,157,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2007,,17263
+159,158,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2008,,22473
+160,159,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2009,,20631
+161,160,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2010,,26071
+162,161,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2011,,33978
+163,162,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2012,,34133
+164,163,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2013,,33576
+165,164,Bangladesh,Neraca Perdagangan beberapa Negara,Impor,2014,,
+166,165,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+167,166,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+168,167,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+169,168,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+170,169,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,5996
+171,170,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,5648
+172,171,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,5861
+173,172,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,7030
+174,173,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,10695
+175,174,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,8188
+176,175,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,11877
+177,176,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,14171
+178,177,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,9020
+179,178,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,6543
+180,179,Bangladesh,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+181,180,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2000,,208889
+182,181,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2001,,216155
+183,182,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2002,,219857
+184,183,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2003,,264849
+185,184,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2004,,318066
+186,185,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2005,,349844
+187,186,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2006,,399635
+188,187,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2007,,476787
+189,188,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2008,,541398
+190,189,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2009,,431839
+191,190,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2010,,492742
+192,191,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2011,,569513
+193,192,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2012,,554699
+194,193,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2013,,567674
+195,194,Belanda,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+196,195,Belanda,Neraca Perdagangan beberapa Negara,Impor,2000,,198331
+197,196,Belanda,Neraca Perdagangan beberapa Negara,Impor,2001,,195552
+198,197,Belanda,Neraca Perdagangan beberapa Negara,Impor,2002,,194130
+199,198,Belanda,Neraca Perdagangan beberapa Negara,Impor,2003,,234014
+200,199,Belanda,Neraca Perdagangan beberapa Negara,Impor,2004,,284020
+201,200,Belanda,Neraca Perdagangan beberapa Negara,Impor,2005,,310600
+202,201,Belanda,Neraca Perdagangan beberapa Negara,Impor,2006,,358510
+203,202,Belanda,Neraca Perdagangan beberapa Negara,Impor,2007,,421084
+204,203,Belanda,Neraca Perdagangan beberapa Negara,Impor,2008,,495043
+205,204,Belanda,Neraca Perdagangan beberapa Negara,Impor,2009,,382268
+206,205,Belanda,Neraca Perdagangan beberapa Negara,Impor,2010,,440024
+207,206,Belanda,Neraca Perdagangan beberapa Negara,Impor,2011,,507759
+208,207,Belanda,Neraca Perdagangan beberapa Negara,Impor,2012,,501163
+209,208,Belanda,Neraca Perdagangan beberapa Negara,Impor,2013,,507478
+210,209,Belanda,Neraca Perdagangan beberapa Negara,Impor,2014,,
+211,210,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,10558
+212,211,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,20603
+213,212,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,25727
+214,213,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,30835
+215,214,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,34046
+216,215,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,39244
+217,216,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,41125
+218,217,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,55703
+219,218,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,46355
+220,219,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,49571
+221,220,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,52718
+222,221,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,61754
+223,222,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,53536
+224,223,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,60196
+225,224,Belanda,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+226,225,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+227,226,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+228,227,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+229,228,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+230,229,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2004,,306816
+231,230,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2005,,335862
+232,231,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2006,,366758
+233,232,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2007,,431118
+234,233,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2008,,471932
+235,234,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2009,,371397
+236,235,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2010,,407055
+237,236,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2011,,475981
+238,237,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2012,,446637
+239,238,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2013,,467831
+240,239,Belgia,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+241,240,Belgia,Neraca Perdagangan beberapa Negara,Impor,2000,,
+242,241,Belgia,Neraca Perdagangan beberapa Negara,Impor,2001,,
+243,242,Belgia,Neraca Perdagangan beberapa Negara,Impor,2002,,
+244,243,Belgia,Neraca Perdagangan beberapa Negara,Impor,2003,,
+245,244,Belgia,Neraca Perdagangan beberapa Negara,Impor,2004,,285596
+246,245,Belgia,Neraca Perdagangan beberapa Negara,Impor,2005,,318768
+247,246,Belgia,Neraca Perdagangan beberapa Negara,Impor,2006,,351575
+248,247,Belgia,Neraca Perdagangan beberapa Negara,Impor,2007,,412012
+249,248,Belgia,Neraca Perdagangan beberapa Negara,Impor,2008,,466437
+250,249,Belgia,Neraca Perdagangan beberapa Negara,Impor,2009,,354666
+251,250,Belgia,Neraca Perdagangan beberapa Negara,Impor,2010,,391333
+252,251,Belgia,Neraca Perdagangan beberapa Negara,Impor,2011,,466833
+253,252,Belgia,Neraca Perdagangan beberapa Negara,Impor,2012,,439492
+254,253,Belgia,Neraca Perdagangan beberapa Negara,Impor,2013,,451921
+255,254,Belgia,Neraca Perdagangan beberapa Negara,Impor,2014,,
+256,255,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+257,256,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+258,257,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+259,258,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+260,259,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,21220
+261,260,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,17104
+262,261,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,15184
+263,262,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,19106
+264,263,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,5494
+265,264,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,16731
+266,265,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,15721
+267,266,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,9148
+268,267,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,7145
+269,268,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,15910
+270,269,Belgia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+271,270,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+272,271,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+273,272,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+274,273,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+275,274,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2004,,96678
+276,275,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2005,,118529
+277,276,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2006,,137807
+278,277,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2007,,160649
+279,278,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2008,,197942
+280,279,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2009,,152995
+281,280,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2010,,201915
+282,281,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2011,,256040
+283,282,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2012,,242580
+284,283,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2013,,242179
+285,284,Brazil,Neraca Perdagangan beberapa Negara,Ekspor,2014,,225102
+286,285,Brazil,Neraca Perdagangan beberapa Negara,Impor,2000,,
+287,286,Brazil,Neraca Perdagangan beberapa Negara,Impor,2001,,
+288,287,Brazil,Neraca Perdagangan beberapa Negara,Impor,2002,,
+289,288,Brazil,Neraca Perdagangan beberapa Negara,Impor,2003,,
+290,289,Brazil,Neraca Perdagangan beberapa Negara,Impor,2004,,66433
+291,290,Brazil,Neraca Perdagangan beberapa Negara,Impor,2005,,77628
+292,291,Brazil,Neraca Perdagangan beberapa Negara,Impor,2006,,95838
+293,292,Brazil,Neraca Perdagangan beberapa Negara,Impor,2007,,126645
+294,293,Brazil,Neraca Perdagangan beberapa Negara,Impor,2008,,182377
+295,294,Brazil,Neraca Perdagangan beberapa Negara,Impor,2009,,133673
+296,295,Brazil,Neraca Perdagangan beberapa Negara,Impor,2010,,191537
+297,296,Brazil,Neraca Perdagangan beberapa Negara,Impor,2011,,236946
+298,297,Brazil,Neraca Perdagangan beberapa Negara,Impor,2012,,228377
+299,298,Brazil,Neraca Perdagangan beberapa Negara,Impor,2013,,244677
+300,299,Brazil,Neraca Perdagangan beberapa Negara,Impor,2014,,237531
+301,300,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+302,301,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+303,302,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+304,303,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+305,304,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,30244
+306,305,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,40901
+307,306,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,41969
+308,307,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,34004
+309,308,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,15565
+310,309,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,19322
+311,310,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,10378
+312,311,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,19094
+313,312,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,14203
+314,313,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,2498
+315,314,Brazil,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,12429
+316,315,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2000,,249203
+317,316,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2001,,266098
+318,317,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2002,,325596
+319,318,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2003,,438228
+320,319,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2004,,593326
+321,320,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2005,,102000
+322,321,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2006,,969380
+323,322,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2007,,1217815
+324,323,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2008,,1428660
+325,324,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2009,,1201790
+326,325,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2010,,1578270
+327,326,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2011,,1899180
+328,327,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2012,,2048940
+329,328,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2013,,2210250
+330,329,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+331,330,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2000,,225094
+332,331,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2001,,243553
+333,332,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2002,,295170
+334,333,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2003,,412760
+335,334,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2004,,561229
+336,335,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2005,,761953
+337,336,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2006,,791797
+338,337,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2007,,956233
+339,338,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2008,,1131620
+340,339,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2009,,1004170
+341,340,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2010,,1396200
+342,341,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2011,,1742850
+343,342,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2012,,1817780
+344,343,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2013,,1950380
+345,344,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Impor,2014,,
+346,345,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,24109
+347,346,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,22545
+348,347,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,30426
+349,348,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,25468
+350,349,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,32097
+351,350,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,1073081871
+352,351,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,177583
+353,352,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,261582
+354,353,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,297040
+355,354,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,197620
+356,355,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,182070
+357,356,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,156330
+358,357,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,231160
+359,358,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,259870
+360,359,Cina/Tiongkok,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+361,360,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2000,,50367
+362,361,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2001,,51077
+363,362,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2002,,56308
+364,363,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2003,,65280
+365,364,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2004,,75568
+366,365,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2005,,83569
+367,366,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2006,,91703
+368,367,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2007,,101954
+369,368,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2008,,115929
+370,369,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2009,,91817
+371,370,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2010,,95758
+372,371,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2011,,111900
+373,372,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2012,,106125
+374,373,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2013,,111351
+375,374,Denmark,Neraca Perdagangan beberapa Negara,Ekspor,2014,,110489
+376,375,Denmark,Neraca Perdagangan beberapa Negara,Impor,2000,,44377
+377,376,Denmark,Neraca Perdagangan beberapa Negara,Impor,2001,,44132
+378,377,Denmark,Neraca Perdagangan beberapa Negara,Impor,2002,,48890
+379,378,Denmark,Neraca Perdagangan beberapa Negara,Impor,2003,,56227
+380,379,Denmark,Neraca Perdagangan beberapa Negara,Impor,2004,,66845
+381,380,Denmark,Neraca Perdagangan beberapa Negara,Impor,2005,,74265
+382,381,Denmark,Neraca Perdagangan beberapa Negara,Impor,2006,,85103
+383,382,Denmark,Neraca Perdagangan beberapa Negara,Impor,2007,,97324
+384,383,Denmark,Neraca Perdagangan beberapa Negara,Impor,2008,,109158
+385,384,Denmark,Neraca Perdagangan beberapa Negara,Impor,2009,,80372
+386,385,Denmark,Neraca Perdagangan beberapa Negara,Impor,2010,,83170
+387,386,Denmark,Neraca Perdagangan beberapa Negara,Impor,2011,,96431
+388,387,Denmark,Neraca Perdagangan beberapa Negara,Impor,2012,,92295
+389,388,Denmark,Neraca Perdagangan beberapa Negara,Impor,2013,,98374
+390,389,Denmark,Neraca Perdagangan beberapa Negara,Impor,2014,,99127
+391,390,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,5990
+392,391,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,6945
+393,392,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,7418
+394,393,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,9052
+395,394,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,8723
+396,395,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,9303
+397,396,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,6600
+398,397,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,4631
+399,398,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,6722
+400,399,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,11445
+401,400,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,12589
+402,401,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,15469
+403,402,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,13830
+404,403,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,12977
+405,404,Denmark,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,11363
+406,405,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+407,406,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+408,407,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+409,408,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+410,409,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2004,,181663
+411,410,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2005,,241473
+412,411,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2006,,301244
+413,412,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2007,,351930
+414,413,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2008,,467581
+415,414,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2009,,301656
+416,415,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2010,,397668
+417,416,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2011,,516481
+418,417,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2012,,525383
+419,418,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2013,,527266
+420,419,Federasi Rusia,Neraca Perdagangan beberapa Negara,Ekspor,2014,,497561
+421,420,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2000,,
+422,421,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2001,,
+423,422,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2002,,
+424,423,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2003,,
+425,424,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2004,,75569
+426,425,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2005,,98708
+427,426,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2006,,137807
+428,427,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2007,,199754
+429,428,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2008,,267101
+430,429,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2009,,167411
+431,430,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2010,,229655
+432,431,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2011,,305605
+433,432,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2012,,314150
+434,433,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2013,,314967
+435,434,Federasi Rusia,Neraca Perdagangan beberapa Negara,Impor,2014,,285893
+436,435,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+437,436,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+438,437,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+439,438,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+440,439,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,106093
+441,440,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,142766
+442,441,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,163437
+443,442,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,152176
+444,443,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,200480
+445,444,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,134245
+446,445,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,168013
+447,446,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,210877
+448,447,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,211233
+449,448,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,212299
+450,449,Federasi Rusia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,211668
+451,450,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2000,,39794
+452,451,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2001,,32664
+453,452,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2002,,36510
+454,453,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2003,,36231
+455,454,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2004,,39680
+456,455,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2005,,39879
+457,456,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2006,,47413
+458,457,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2007,,50270
+459,458,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2008,,49462
+460,459,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2009,,38421
+461,460,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2010,,51541
+462,461,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2011,,48316
+463,462,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2012,,52071
+464,463,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2013,,53885
+465,464,Filipina,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+466,465,Filipina,Neraca Perdagangan beberapa Negara,Impor,2000,,36887
+467,466,Filipina,Neraca Perdagangan beberapa Negara,Impor,2001,,34944
+468,467,Filipina,Neraca Perdagangan beberapa Negara,Impor,2002,,37202
+469,468,Filipina,Neraca Perdagangan beberapa Negara,Impor,2003,,39502
+470,469,Filipina,Neraca Perdagangan beberapa Negara,Impor,2004,,42345
+471,470,Filipina,Neraca Perdagangan beberapa Negara,Impor,2005,,46963
+472,471,Filipina,Neraca Perdagangan beberapa Negara,Impor,2006,,54077
+473,472,Filipina,Neraca Perdagangan beberapa Negara,Impor,2007,,57708
+474,473,Filipina,Neraca Perdagangan beberapa Negara,Impor,2008,,60491
+475,474,Filipina,Neraca Perdagangan beberapa Negara,Impor,2009,,45856
+476,475,Filipina,Neraca Perdagangan beberapa Negara,Impor,2010,,58533
+477,476,Filipina,Neraca Perdagangan beberapa Negara,Impor,2011,,64097
+478,477,Filipina,Neraca Perdagangan beberapa Negara,Impor,2012,,65845
+479,478,Filipina,Neraca Perdagangan beberapa Negara,Impor,2013,,65048
+480,479,Filipina,Neraca Perdagangan beberapa Negara,Impor,2014,,
+481,480,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,2907
+482,481,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,2280
+483,482,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,692
+484,483,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,3271
+485,484,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,2664
+486,485,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,7084
+487,486,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,6665
+488,487,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,7438
+489,488,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,11030
+490,489,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,7436
+491,490,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,6992
+492,491,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,15781
+493,492,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,13773
+494,493,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,11163
+495,494,Filipina,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+496,495,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2000,,45482
+497,496,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2001,,42802
+498,497,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2002,,44671
+499,498,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2003,,52514
+500,499,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2004,,60916
+501,500,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2005,,65240
+502,501,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2006,,77287
+503,502,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2007,,90091
+504,503,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2008,,96890
+505,504,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2009,,62859
+506,505,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2010,,69492
+507,506,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2011,,79126
+508,507,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2012,,73114
+509,508,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2013,,74433
+510,509,Finlandia,Neraca Perdagangan beberapa Negara,Ekspor,2014,,73982
+511,510,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2000,,33900
+512,511,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2001,,32114
+513,512,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2002,,33642
+514,513,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2003,,41601
+515,514,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2004,,50677
+516,515,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2005,,58474
+517,516,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2006,,69448
+518,517,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2007,,81756
+519,518,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2008,,92160
+520,519,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2009,,60822
+521,520,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2010,,68773
+522,521,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2011,,84235
+523,522,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2012,,76558
+524,523,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2013,,77579
+525,524,Finlandia,Neraca Perdagangan beberapa Negara,Impor,2014,,76161
+526,525,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,11582
+527,526,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,10688
+528,527,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,11029
+529,528,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,10913
+530,529,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,10239
+531,530,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,6765
+532,531,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,7839
+533,532,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,8335
+534,533,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,4730
+535,534,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,2037
+536,535,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,719
+537,536,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,5108
+538,537,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,3444
+539,538,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,3146
+540,539,Finlandia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,2179
+541,540,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2000,,201860
+542,541,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2001,,189894
+543,542,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2002,,200092
+544,543,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2003,,223762
+545,544,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2004,,259260
+546,545,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2005,,289337
+547,546,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2006,,316816
+548,547,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2007,,344629
+549,548,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2008,,362675
+550,549,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2009,,318510
+551,550,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2010,,390143
+552,551,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2011,,428732
+553,552,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2012,,442799
+554,553,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2013,,458959
+555,554,Hongkong,Neraca Perdagangan beberapa Negara,Ekspor,2014,,473659
+556,555,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2000,,212805
+557,556,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2001,,201076
+558,557,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2002,,207644
+559,558,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2003,,231896
+560,559,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2004,,271074
+561,560,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2005,,299533
+562,561,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2006,,334681
+563,562,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2007,,367864
+564,563,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2008,,388505
+565,564,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2009,,347311
+566,565,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2010,,433111
+567,566,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2011,,483633
+568,567,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2012,,504405
+569,568,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2013,,523558
+570,569,Hongkong,Neraca Perdagangan beberapa Negara,Impor,2014,,544112
+571,570,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,10945
+572,571,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,11182
+573,572,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,7552
+574,573,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,8134
+575,574,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,11814
+576,575,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,10196
+577,576,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,17865
+578,577,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,23235
+579,578,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,25830
+580,579,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,28801
+581,580,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,42968
+582,581,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,54901
+583,582,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,61606
+584,583,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,64599
+585,584,Hongkong,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,70453
+586,585,India,Neraca Perdagangan beberapa Negara,Ekspor,2000,,42378
+587,586,India,Neraca Perdagangan beberapa Negara,Ekspor,2001,,43352
+588,587,India,Neraca Perdagangan beberapa Negara,Ekspor,2002,,50353
+589,588,India,Neraca Perdagangan beberapa Negara,Ekspor,2003,,58964
+590,589,India,Neraca Perdagangan beberapa Negara,Ekspor,2004,,76647
+591,590,India,Neraca Perdagangan beberapa Negara,Ekspor,2005,,99618
+592,591,India,Neraca Perdagangan beberapa Negara,Ekspor,2006,,121812
+593,592,India,Neraca Perdagangan beberapa Negara,Ekspor,2007,,150160
+594,593,India,Neraca Perdagangan beberapa Negara,Ekspor,2008,,194816
+595,594,India,Neraca Perdagangan beberapa Negara,Ekspor,2009,,164912
+596,595,India,Neraca Perdagangan beberapa Negara,Ekspor,2010,,226334
+597,596,India,Neraca Perdagangan beberapa Negara,Ekspor,2011,,302892
+598,597,India,Neraca Perdagangan beberapa Negara,Ekspor,2012,,296827
+599,598,India,Neraca Perdagangan beberapa Negara,Ekspor,2013,,314809
+600,599,India,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+601,600,India,Neraca Perdagangan beberapa Negara,Impor,2000,,51563
+602,601,India,Neraca Perdagangan beberapa Negara,Impor,2001,,50391
+603,602,India,Neraca Perdagangan beberapa Negara,Impor,2002,,56496
+604,603,India,Neraca Perdagangan beberapa Negara,Impor,2003,,72559
+605,604,India,Neraca Perdagangan beberapa Negara,Impor,2004,,99757
+606,605,India,Neraca Perdagangan beberapa Negara,Impor,2005,,142865
+607,606,India,Neraca Perdagangan beberapa Negara,Impor,2006,,178485
+608,607,India,Neraca Perdagangan beberapa Negara,Impor,2007,,229349
+609,608,India,Neraca Perdagangan beberapa Negara,Impor,2008,,321026
+610,609,India,Neraca Perdagangan beberapa Negara,Impor,2009,,257200
+611,610,India,Neraca Perdagangan beberapa Negara,Impor,2010,,350192
+612,611,India,Neraca Perdagangan beberapa Negara,Impor,2011,,464507
+613,612,India,Neraca Perdagangan beberapa Negara,Impor,2012,,489689
+614,613,India,Neraca Perdagangan beberapa Negara,Impor,2013,,465529
+615,614,India,Neraca Perdagangan beberapa Negara,Impor,2014,,
+616,615,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,9185
+617,616,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,7038
+618,617,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,6143
+619,618,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,13595
+620,619,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,23110
+621,620,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,43247
+622,621,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,56674
+623,622,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,79189
+624,623,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,126210
+625,624,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,92288
+626,625,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,123858
+627,626,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,161615
+628,627,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,192863
+629,628,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,150720
+630,629,India,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+631,630,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2000,,62124
+632,631,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2001,,56321
+633,632,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2002,,57159
+634,633,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2003,,61058
+635,634,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2004,,71585
+636,635,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2005,,85660
+637,636,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2006,,100799
+638,637,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2007,,114101
+639,638,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2008,,137020
+640,639,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2009,,116510
+641,640,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2010,,157779
+642,641,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2011,,203497
+643,642,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2012,,190020
+644,643,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2013,,182552
+645,644,Indonesia,Neraca Perdagangan beberapa Negara,Ekspor,2014,,176293
+646,645,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2000,,33515
+647,646,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2001,,30962
+648,647,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2002,,31289
+649,648,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2003,,32551
+650,649,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2004,,46525
+651,650,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2005,,57701
+652,651,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2006,,61066
+653,652,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2007,,74473
+654,653,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2008,,129197
+655,654,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2009,,96829
+656,655,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2010,,135663
+657,656,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2011,,177436
+658,657,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2012,,191690
+659,658,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2013,,186629
+660,659,Indonesia,Neraca Perdagangan beberapa Negara,Impor,2014,,178179
+661,660,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,28609
+662,661,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,25359
+663,662,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,25870
+664,663,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,28507
+665,664,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,25060
+666,665,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,27959
+667,666,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,39733
+668,667,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,39628
+669,668,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,7823
+670,669,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,19681
+671,670,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,22116
+672,671,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,26061
+673,672,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,1669
+674,673,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,4077
+675,674,Indonesia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,1886
+676,675,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2000,,281525
+677,676,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2001,,267357
+678,677,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2002,,276317
+679,678,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2003,,304268
+680,679,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2004,,341621
+681,680,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2005,,371381
+682,681,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2006,,428261
+683,682,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2007,,434473
+684,683,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2008,,468354
+685,684,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2009,,357353
+686,685,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2010,,410006
+687,686,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2011,,478460
+688,687,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2012,,476284
+689,688,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2013,,476991
+690,689,Inggris,Neraca Perdagangan beberapa Negara,Ekspor,2014,,477950
+691,690,Inggris,Neraca Perdagangan beberapa Negara,Impor,2000,,334371
+692,691,Inggris,Neraca Perdagangan beberapa Negara,Impor,2001,,320956
+693,692,Inggris,Neraca Perdagangan beberapa Negara,Impor,2002,,335458
+694,693,Inggris,Neraca Perdagangan beberapa Negara,Impor,2003,,380821
+695,694,Inggris,Neraca Perdagangan beberapa Negara,Impor,2004,,451715
+696,695,Inggris,Neraca Perdagangan beberapa Negara,Impor,2005,,483066
+697,696,Inggris,Neraca Perdagangan beberapa Negara,Impor,2006,,547543
+698,697,Inggris,Neraca Perdagangan beberapa Negara,Impor,2007,,620899
+699,698,Inggris,Neraca Perdagangan beberapa Negara,Impor,2008,,643387
+700,699,Inggris,Neraca Perdagangan beberapa Negara,Impor,2009,,486737
+701,700,Inggris,Neraca Perdagangan beberapa Negara,Impor,2010,,562493
+702,701,Inggris,Neraca Perdagangan beberapa Negara,Impor,2011,,638940
+703,702,Inggris,Neraca Perdagangan beberapa Negara,Impor,2012,,648671
+704,703,Inggris,Neraca Perdagangan beberapa Negara,Impor,2013,,645516
+705,704,Inggris,Neraca Perdagangan beberapa Negara,Impor,2014,,663726
+706,705,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,52846
+707,706,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,53599
+708,707,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,59142
+709,708,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,76553
+710,709,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,110094
+711,710,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,111685
+712,711,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,119282
+713,712,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,186426
+714,713,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,173033
+715,714,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,129384
+716,715,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,152487
+717,716,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,160480
+718,717,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,172387
+719,718,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,168525
+720,719,Inggris,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,185775
+721,720,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2000,,239934
+722,721,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2001,,244253
+723,722,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2002,,254219
+724,723,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2003,,299468
+725,724,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2004,,353544
+726,725,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2005,,372962
+727,726,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2006,,416231
+728,727,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2007,,499933
+729,728,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2008,,544962
+730,729,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2009,,406685
+731,730,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2010,,446852
+732,731,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2011,,523283
+733,732,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2012,,501534
+734,733,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2013,,517628
+735,734,Italia,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+736,735,Italia,Neraca Perdagangan beberapa Negara,Impor,2000,,238071
+737,736,Italia,Neraca Perdagangan beberapa Negara,Impor,2001,,236128
+738,737,Italia,Neraca Perdagangan beberapa Negara,Impor,2002,,246613
+739,738,Italia,Neraca Perdagangan beberapa Negara,Impor,2003,,297405
+740,739,Italia,Neraca Perdagangan beberapa Negara,Impor,2004,,355269
+741,740,Italia,Neraca Perdagangan beberapa Negara,Impor,2005,,384837
+742,741,Italia,Neraca Perdagangan beberapa Negara,Impor,2006,,440852
+743,742,Italia,Neraca Perdagangan beberapa Negara,Impor,2007,,509937
+744,743,Italia,Neraca Perdagangan beberapa Negara,Impor,2008,,563436
+745,744,Italia,Neraca Perdagangan beberapa Negara,Impor,2009,,414725
+746,745,Italia,Neraca Perdagangan beberapa Negara,Impor,2010,,486968
+747,746,Italia,Neraca Perdagangan beberapa Negara,Impor,2011,,558813
+748,747,Italia,Neraca Perdagangan beberapa Negara,Impor,2012,,489096
+749,748,Italia,Neraca Perdagangan beberapa Negara,Impor,2013,,477292
+750,749,Italia,Neraca Perdagangan beberapa Negara,Impor,2014,,
+751,750,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,1863
+752,751,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,8125
+753,752,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,7606
+754,753,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,2063
+755,754,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,1726
+756,755,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,11875
+757,756,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,24621
+758,757,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,10004
+759,758,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,18474
+760,759,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,8040
+761,760,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,40116
+762,761,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,35530
+763,762,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,12438
+764,763,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,40336
+765,764,Italia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+766,765,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2000,,479227
+767,766,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2001,,403616
+768,767,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2002,,416730
+769,768,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2003,,471999
+770,769,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2004,,565743
+771,770,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2005,,594986
+772,771,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2006,,649948
+773,772,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2007,,714211
+774,773,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2008,,782049
+775,774,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2009,,580719
+776,775,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2010,,769772
+777,776,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2011,,822564
+778,777,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2012,,798621
+779,778,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2013,,714613
+780,779,Jepang,Neraca Perdagangan beberapa Negara,Ekspor,2014,,690284
+781,780,Jepang,Neraca Perdagangan beberapa Negara,Impor,2000,,379491
+782,781,Jepang,Neraca Perdagangan beberapa Negara,Impor,2001,,349189
+783,782,Jepang,Neraca Perdagangan beberapa Negara,Impor,2002,,337209
+784,783,Jepang,Neraca Perdagangan beberapa Negara,Impor,2003,,383085
+785,784,Jepang,Neraca Perdagangan beberapa Negara,Impor,2004,,454592
+786,785,Jepang,Neraca Perdagangan beberapa Negara,Impor,2005,,514988
+787,786,Jepang,Neraca Perdagangan beberapa Negara,Impor,2006,,579609
+788,787,Jepang,Neraca Perdagangan beberapa Negara,Impor,2007,,619662
+789,788,Jepang,Neraca Perdagangan beberapa Negara,Impor,2008,,762626
+790,789,Jepang,Neraca Perdagangan beberapa Negara,Impor,2009,,550550
+791,790,Jepang,Neraca Perdagangan beberapa Negara,Impor,2010,,692435
+792,791,Jepang,Neraca Perdagangan beberapa Negara,Impor,2011,,854098
+793,792,Jepang,Neraca Perdagangan beberapa Negara,Impor,2012,,885610
+794,793,Jepang,Neraca Perdagangan beberapa Negara,Impor,2013,,832424
+795,794,Jepang,Neraca Perdagangan beberapa Negara,Impor,2014,,811882
+796,795,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,99736
+1054,1053,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2003,,
+797,796,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,54427
+798,797,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,79520
+799,798,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,88914
+800,799,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,111150
+801,800,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,79998
+802,801,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,70340
+803,802,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,94549
+804,803,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,19422
+805,804,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,30169
+806,805,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,77337
+807,806,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,31534
+808,807,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,86989
+809,808,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,117811
+810,809,Jepang,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,121598
+811,810,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2000,,550260
+812,811,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2001,,571460
+813,812,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2002,,615705
+814,813,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2003,,751824
+815,814,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2004,,911858
+816,815,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2005,,977970
+817,816,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2006,,1122112
+818,817,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2007,,1323818
+819,818,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2008,,1451390
+820,819,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2009,,1120666
+821,820,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2010,,1261577
+822,821,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2011,,1476955
+823,822,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2012,,1408370
+824,823,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2013,,1451631
+825,824,Jerman,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+826,825,Jerman,Neraca Perdagangan beberapa Negara,Impor,2000,,495480
+827,826,Jerman,Neraca Perdagangan beberapa Negara,Impor,2001,,486053
+828,827,Jerman,Neraca Perdagangan beberapa Negara,Impor,2002,,490157
+829,828,Jerman,Neraca Perdagangan beberapa Negara,Impor,2003,,604729
+830,829,Jerman,Neraca Perdagangan beberapa Negara,Impor,2004,,718269
+831,830,Jerman,Neraca Perdagangan beberapa Negara,Impor,2005,,780514
+832,831,Jerman,Neraca Perdagangan beberapa Negara,Impor,2006,,922376
+833,832,Jerman,Neraca Perdagangan beberapa Negara,Impor,2007,,1055997
+834,833,Jerman,Neraca Perdagangan beberapa Negara,Impor,2008,,1186681
+835,834,Jerman,Neraca Perdagangan beberapa Negara,Impor,2009,,926154
+836,835,Jerman,Neraca Perdagangan beberapa Negara,Impor,2010,,1056170
+837,836,Jerman,Neraca Perdagangan beberapa Negara,Impor,2011,,1256168
+838,837,Jerman,Neraca Perdagangan beberapa Negara,Impor,2012,,1164626
+839,838,Jerman,Neraca Perdagangan beberapa Negara,Impor,2013,,1192751
+840,839,Jerman,Neraca Perdagangan beberapa Negara,Impor,2014,,
+841,840,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,54780
+842,841,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,85407
+843,842,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,125548
+844,843,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,147095
+845,844,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,193589
+846,845,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,197456
+847,846,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,199736
+848,847,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,267822
+849,848,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,264709
+850,849,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,194512
+851,850,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,205408
+852,851,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,220787
+853,852,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,243744
+854,853,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,258880
+855,854,Jerman,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+856,855,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+857,856,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+858,857,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+859,858,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+860,859,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2004,,2798
+861,860,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2005,,3200
+862,861,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2006,,3800
+863,862,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2007,,4400
+864,863,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2008,,4708
+865,864,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2009,,4196
+866,865,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2010,,5143
+867,866,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2011,,6950
+868,867,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2012,,8200
+869,868,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2013,,9100
+870,869,Kamboja,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+871,870,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2000,,
+872,871,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2001,,
+873,872,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2002,,
+874,873,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2003,,
+875,874,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2004,,3193
+876,875,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2005,,3927
+877,876,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2006,,4749
+878,877,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2007,,5300
+879,878,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2008,,6508
+880,879,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2009,,5830
+881,880,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2010,,6791
+882,881,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2011,,9300
+883,882,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2012,,11000
+884,883,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2013,,13000
+885,884,Kamboja,Neraca Perdagangan beberapa Negara,Impor,2014,,
+886,885,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+887,886,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+888,887,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+889,888,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+890,889,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,395
+891,890,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,727
+892,891,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,949
+893,892,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,900
+894,893,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,1800
+895,894,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,1634
+896,895,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,1648
+897,896,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,2350
+898,897,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,2800
+899,898,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,3900
+900,899,Kamboja,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+901,900,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2000,,276645
+902,901,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2001,,259857
+903,902,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2002,,252408
+904,903,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2003,,272699
+905,904,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2004,,304623
+906,905,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2005,,359411
+907,906,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2006,,389513
+908,907,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2007,,416432
+909,908,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2008,,452170
+910,909,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2009,,313981
+911,910,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2010,,387481
+912,911,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2011,,452132
+913,912,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2012,,454833
+914,913,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2013,,458397
+915,914,Kanada,Neraca Perdagangan beberapa Negara,Ekspor,2014,,469980
+916,915,Kanada,Neraca Perdagangan beberapa Negara,Impor,2000,,238812
+917,916,Kanada,Neraca Perdagangan beberapa Negara,Impor,2001,,221757
+918,917,Kanada,Neraca Perdagangan beberapa Negara,Impor,2002,,221961
+919,918,Kanada,Neraca Perdagangan beberapa Negara,Impor,2003,,239085
+920,919,Kanada,Neraca Perdagangan beberapa Negara,Impor,2004,,273084
+921,920,Kanada,Neraca Perdagangan beberapa Negara,Impor,2005,,323365
+922,921,Kanada,Neraca Perdagangan beberapa Negara,Impor,2006,,348958
+923,922,Kanada,Neraca Perdagangan beberapa Negara,Impor,2007,,379794
+924,923,Kanada,Neraca Perdagangan beberapa Negara,Impor,2008,,407165
+925,924,Kanada,Neraca Perdagangan beberapa Negara,Impor,2009,,320287
+926,925,Kanada,Neraca Perdagangan beberapa Negara,Impor,2010,,392119
+927,926,Kanada,Neraca Perdagangan beberapa Negara,Impor,2011,,451246
+928,927,Kanada,Neraca Perdagangan beberapa Negara,Impor,2012,,462423
+929,928,Kanada,Neraca Perdagangan beberapa Negara,Impor,2013,,461925
+930,929,Kanada,Neraca Perdagangan beberapa Negara,Impor,2014,,465908
+931,930,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,37833
+932,931,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,38100
+933,932,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,30447
+934,933,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,33614
+935,934,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,31538
+936,935,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,36046
+937,936,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,40555
+938,937,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,36638
+939,938,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,45005
+940,939,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,6306
+941,940,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,4638
+942,941,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,886
+943,942,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,7590
+944,943,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,3528
+945,944,Kanada,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,4072
+946,945,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+947,946,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+948,947,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+949,948,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+950,949,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2004,,20093
+951,950,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2005,,27849
+952,951,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2006,,38762
+953,952,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2007,,48351
+954,953,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2008,,71172
+955,954,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2009,,43196
+956,955,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2010,,57244
+957,956,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2011,,83316
+958,957,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2012,,88575
+959,958,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2013,,81912
+960,959,Kazakstan,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+961,960,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2000,,
+962,961,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2001,,
+963,962,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2002,,
+964,963,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2003,,
+965,964,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2004,,12781
+966,965,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2005,,17353
+967,966,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2006,,24120
+968,967,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2007,,33260
+969,968,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2008,,38452
+970,969,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2009,,28409
+971,970,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2010,,24024
+972,971,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2011,,30000
+973,972,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2012,,35307
+974,973,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2013,,45966
+975,974,Kazakstan,Neraca Perdagangan beberapa Negara,Impor,2014,,
+976,975,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+977,976,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+978,977,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+979,978,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+980,979,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,7312
+981,980,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,10497
+982,981,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,14642
+983,982,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,15091
+984,983,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,32720
+985,984,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,14787
+986,985,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,33220
+987,986,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,53316
+988,987,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,53268
+989,988,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,35945
+990,989,Kazakstan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+991,990,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2000,,172267
+992,991,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2001,,150439
+993,992,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2002,,162471
+994,993,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2003,,193817
+995,994,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2004,,253845
+996,995,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2005,,284419
+997,996,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2006,,325465
+998,997,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2007,,371554
+999,998,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2008,,422007
+1000,999,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2009,,361614
+1001,1000,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2010,,466384
+1002,1001,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2011,,555216
+1003,1002,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2012,,547879
+1004,1003,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2013,,559649
+1005,1004,Korea Selatan,Neraca Perdagangan beberapa Negara,Ekspor,2014,,573091
+1006,1005,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2000,,160481
+1007,1006,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2001,,141098
+1008,1007,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2002,,152126
+1009,1008,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2003,,178827
+1010,1009,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2004,,224463
+1011,1010,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2005,,261238
+1012,1011,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2006,,309383
+1013,1012,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2007,,356648
+1014,1013,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2008,,435275
+1015,1014,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2009,,322843
+1016,1015,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2010,,425212
+1017,1016,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2011,,524418
+1018,1017,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2012,,519569
+1019,1018,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2013,,515561
+1020,1019,Korea Selatan,Neraca Perdagangan beberapa Negara,Impor,2014,,525564
+1021,1020,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,11786
+1022,1021,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,9341
+1023,1022,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,10345
+1024,1023,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,14990
+1025,1024,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,29382
+1026,1025,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,23181
+1027,1026,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,16082
+1028,1027,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,14906
+1029,1028,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,13268
+1030,1029,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,38771
+1031,1030,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,41172
+1032,1031,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,30798
+1033,1032,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,28310
+1034,1033,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,44088
+1035,1034,Korea Selatan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,47527
+1036,1035,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+1037,1036,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+1038,1037,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+1039,1038,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+1040,1039,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2004,,28599
+1041,1040,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2005,,45189
+1042,1041,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2006,,56016
+1043,1042,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2007,,62871
+1044,1043,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2008,,87648
+1045,1044,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2009,,51985
+1046,1045,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2010,,66619
+1047,1046,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2011,,102078
+1048,1047,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2012,,118912
+1049,1048,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2013,,115210
+1050,1049,Kuwait,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+1051,1050,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2000,,
+1052,1051,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2001,,
+1053,1052,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2002,,
+1055,1054,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2004,,12630
+1056,1055,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2005,,15534
+1057,1056,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2006,,17243
+1058,1057,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2007,,21388
+1059,1058,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2008,,24836
+1060,1059,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2009,,20348
+1061,1060,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2010,,22691
+1062,1061,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2011,,25144
+1063,1062,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2012,,27259
+1064,1063,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2013,,29644
+1065,1064,Kuwait,Neraca Perdagangan beberapa Negara,Impor,2014,,
+1066,1065,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+1067,1066,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+1068,1067,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+1069,1068,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+1070,1069,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,15968
+1071,1070,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,29655
+1072,1071,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,38774
+1073,1072,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,41483
+1074,1073,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,62812
+1075,1074,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,31637
+1076,1075,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,43927
+1077,1076,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,76934
+1078,1077,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,91653
+1079,1078,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,85566
+1080,1079,Kuwait,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+1081,1080,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2000,,98230
+1082,1081,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2001,,88006
+1083,1082,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2002,,93264
+1084,1083,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2003,,99369
+1085,1084,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2004,,125745
+1086,1085,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2005,,140870
+1087,1086,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2006,,160571
+1088,1087,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2007,,176028
+1089,1088,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2008,,199414
+1090,1089,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2009,,157244
+1091,1090,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2010,,198612
+1092,1091,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2011,,228086
+1093,1092,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2012,,227538
+1094,1093,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2013,,228331
+1095,1094,Malaysia,Neraca Perdagangan beberapa Negara,Ekspor,2014,,234139
+1096,1095,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2000,,81963
+1097,1096,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2001,,73867
+1098,1097,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2002,,79868
+1099,1098,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2003,,81948
+1100,1099,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2004,,105298
+1101,1100,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2005,,114410
+1102,1101,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2006,,131085
+1103,1102,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2007,,146767
+1104,1103,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2008,,156348
+1105,1104,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2009,,123757
+1106,1105,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2010,,164622
+1107,1106,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2011,,187473
+1108,1107,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2012,,196393
+1109,1108,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2013,,205898
+1110,1109,Malaysia,Neraca Perdagangan beberapa Negara,Impor,2014,,208874
+1111,1110,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,16266
+1112,1111,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,14139
+1113,1112,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,13396
+1114,1113,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,17421
+1115,1114,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,20446
+1116,1115,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,26460
+1117,1116,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,29486
+1118,1117,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,29261
+1119,1118,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,43066
+1120,1119,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,33487
+1121,1120,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,33990
+1122,1121,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,40613
+1123,1122,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,31145
+1124,1123,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,22434
+1125,1124,Malaysia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,25265
+1126,1125,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+1127,1126,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+1128,1127,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+1129,1128,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+1130,1129,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2004,,189084
+1131,1130,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2005,,213891
+1132,1131,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2006,,250441
+1133,1132,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2007,,272055
+1134,1133,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2008,,291827
+1135,1134,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2009,,229683
+1136,1135,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2010,,298138
+1137,1136,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2011,,349569
+1138,1137,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2012,,370889
+1139,1138,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2013,,380107
+1140,1139,Meksiko,Neraca Perdagangan beberapa Negara,Ekspor,2014,,397658
+1141,1140,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2000,,
+1142,1141,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2001,,
+1143,1142,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2002,,
+1144,1143,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2003,,
+1145,1144,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2004,,197347
+1146,1145,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2005,,221414
+1147,1146,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2006,,256130
+1148,1147,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2007,,283264
+1149,1148,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2008,,310561
+1150,1149,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2009,,234385
+1151,1150,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2010,,301482
+1152,1151,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2011,,350856
+1153,1152,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2012,,370746
+1154,1153,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2013,,381202
+1155,1154,Meksiko,Neraca Perdagangan beberapa Negara,Impor,2014,,399977
+1156,1155,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+1157,1156,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+1158,1157,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+1159,1158,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+1160,1159,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,8263
+1161,1160,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,7523
+1162,1161,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,5689
+1163,1162,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,11209
+1164,1163,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,18734
+1165,1164,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,4702
+1166,1165,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,3344
+1167,1166,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,1287
+1168,1167,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,143
+1169,1168,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,1095
+1170,1169,Meksiko,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,2319
+1171,1170,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+1172,1171,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+1173,1172,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+1174,1173,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+1175,1174,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2004,,7530
+1176,1175,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2005,,10652
+1177,1176,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2006,,13694
+1178,1177,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2007,,16200
+1179,1178,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2008,,26246
+1180,1179,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2009,,23062
+1181,1180,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2010,,26438
+1182,1181,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2011,,30528
+1183,1182,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2012,,29409
+1184,1183,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2013,,28493
+1185,1184,Mesir,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+1186,1185,Mesir,Neraca Perdagangan beberapa Negara,Impor,2000,,
+1187,1186,Mesir,Neraca Perdagangan beberapa Negara,Impor,2001,,
+1188,1187,Mesir,Neraca Perdagangan beberapa Negara,Impor,2002,,
+1189,1188,Mesir,Neraca Perdagangan beberapa Negara,Impor,2003,,
+1190,1189,Mesir,Neraca Perdagangan beberapa Negara,Impor,2004,,12859
+1191,1190,Mesir,Neraca Perdagangan beberapa Negara,Impor,2005,,19816
+1192,1191,Mesir,Neraca Perdagangan beberapa Negara,Impor,2006,,20722
+1193,1192,Mesir,Neraca Perdagangan beberapa Negara,Impor,2007,,27063
+1194,1193,Mesir,Neraca Perdagangan beberapa Negara,Impor,2008,,48775
+1195,1194,Mesir,Neraca Perdagangan beberapa Negara,Impor,2009,,44946
+1196,1195,Mesir,Neraca Perdagangan beberapa Negara,Impor,2010,,52923
+1197,1196,Mesir,Neraca Perdagangan beberapa Negara,Impor,2011,,58903
+1198,1197,Mesir,Neraca Perdagangan beberapa Negara,Impor,2012,,65774
+1199,1198,Mesir,Neraca Perdagangan beberapa Negara,Impor,2013,,59662
+1200,1199,Mesir,Neraca Perdagangan beberapa Negara,Impor,2014,,
+1201,1200,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+1202,1201,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+1203,1202,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+1204,1203,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+1205,1204,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,5329
+1206,1205,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,9163
+1207,1206,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,7028
+1208,1207,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,10863
+1209,1208,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,22528
+1210,1209,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,21884
+1211,1210,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,26485
+1212,1211,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,28376
+1213,1212,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,36365
+1214,1213,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,31169
+1215,1214,Mesir,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+1216,1215,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+1217,1216,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+1218,1217,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+1219,1218,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+1220,1219,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2004,,2380
+1221,1220,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2005,,3813
+1222,1221,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2006,,4585
+1223,1222,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2007,,6313
+1224,1223,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2008,,6882
+1225,1224,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2009,,6662
+1226,1225,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2010,,8661
+1227,1226,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2011,,9238
+1228,1227,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2012,,
+1229,1228,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2013,,
+1230,1229,Myanmar,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+1231,1230,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2000,,
+1232,1231,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2001,,
+1233,1232,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2002,,
+1234,1233,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2003,,
+1235,1234,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2004,,2196
+1236,1235,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2005,,1927
+1237,1236,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2006,,2564
+1238,1237,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2007,,3277
+1239,1238,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2008,,4256
+1240,1239,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2009,,4348
+1241,1240,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2010,,4760
+1242,1241,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2011,,9019
+1243,1242,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2012,,
+1244,1243,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2013,,
+1245,1244,Myanmar,Neraca Perdagangan beberapa Negara,Impor,2014,,
+1246,1245,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+1247,1246,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+1248,1247,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+1249,1248,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+1250,1249,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,184
+1251,1250,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,1887
+1252,1251,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,2021
+1253,1252,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,3036
+1254,1253,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,2626
+1255,1254,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,2314
+1256,1255,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,3901
+1257,1256,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,219
+1258,1257,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,
+1259,1258,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,
+1260,1259,Myanmar,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+1261,1260,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+1262,1261,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+1263,1262,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+1264,1263,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+1265,1264,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2004,,31148
+1266,1265,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2005,,55145
+1267,1266,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2006,,57444
+1268,1267,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2007,,65133
+1269,1268,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2008,,80615
+1270,1269,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2009,,56742
+1271,1270,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2010,,84000
+1272,1271,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2011,,114500
+1273,1272,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2012,,114000
+1274,1273,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2013,,
+1275,1274,Nigeria,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+1276,1275,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2000,,
+1277,1276,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2001,,
+1278,1277,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2002,,
+1279,1278,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2003,,
+1280,1279,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2004,,14164
+1281,1280,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2005,,21314
+1282,1281,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2006,,26760
+1283,1282,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2007,,37576
+1284,1283,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2008,,42378
+1285,1284,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2009,,33906
+1286,1285,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2010,,44235
+1287,1286,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2011,,64105
+1288,1287,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2012,,35703
+1289,1288,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2013,,44598
+1290,1289,Nigeria,Neraca Perdagangan beberapa Negara,Impor,2014,,
+1291,1290,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+1292,1291,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+1293,1292,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+1294,1293,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+1295,1294,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,16984
+1296,1295,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,33831
+1297,1296,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,30684
+1298,1297,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,27557
+1299,1298,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,38237
+1300,1299,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,22836
+1301,1300,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,39765
+1302,1301,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,50395
+1303,1302,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,78297
+1304,1303,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,
+1305,1304,Nigeria,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+1306,1305,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+1307,1306,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+1308,1307,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+1309,1308,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+1310,1309,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2004,,81709
+1311,1310,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2005,,103738
+1312,1311,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2006,,122112
+1313,1312,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2007,,136371
+1314,1313,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2008,,171764
+1315,1314,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2009,,116778
+1316,1315,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2010,,130669
+1317,1316,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2011,,160305
+1318,1317,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2012,,161026
+1319,1318,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2013,,153188
+1320,1319,Norwegia,Neraca Perdagangan beberapa Negara,Ekspor,2014,,142301
+1321,1320,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2000,,
+1322,1321,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2001,,
+1323,1322,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2002,,
+1324,1323,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2003,,
+1325,1324,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2004,,48062
+1326,1325,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2005,,55472
+1327,1326,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2006,,64272
+1328,1327,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2007,,80378
+1329,1328,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2008,,90293
+1330,1329,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2009,,68970
+1331,1330,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2010,,77326
+1332,1331,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2011,,90787
+1333,1332,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2012,,87316
+1334,1333,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2013,,89988
+1335,1334,Norwegia,Neraca Perdagangan beberapa Negara,Impor,2014,,88053
+1336,1335,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+1337,1336,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+1338,1337,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+1339,1338,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+1340,1339,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,33646
+1341,1340,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,48265
+1342,1341,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,57840
+1343,1342,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,55993
+1344,1343,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,81471
+1345,1344,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,47808
+1346,1345,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,53344
+1347,1346,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,69518
+1348,1347,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,73710
+1349,1348,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,63201
+1350,1349,Norwegia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,54247
+1351,1350,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+1352,1351,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+1353,1352,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+1354,1353,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+1355,1354,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2004,,13379
+1356,1355,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2005,,16050
+1357,1356,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2006,,16932
+1358,1357,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2007,,17837
+1359,1358,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2008,,20323
+1360,1359,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2009,,17523
+1361,1360,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2010,,21410
+1362,1361,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2011,,25383
+1363,1362,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2012,,22807
+1364,1363,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2013,,25121
+1365,1364,Pakistan,Neraca Perdagangan beberapa Negara,Ekspor,2014,,25697
+1366,1365,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2000,,
+1367,1366,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2001,,
+1368,1367,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2002,,
+1369,1368,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2003,,
+1370,1369,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2004,,17949
+1371,1370,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2005,,25356
+1372,1371,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2006,,29828
+1373,1372,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2007,,32590
+1374,1373,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2008,,42326
+1375,1374,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2009,,31648
+1376,1375,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2010,,37783
+1377,1376,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2011,,43955
+1378,1377,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2012,,42920
+1379,1378,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2013,,44647
+1380,1379,Pakistan,Neraca Perdagangan beberapa Negara,Impor,2014,,45758
+1381,1380,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+1382,1381,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+1383,1382,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+1384,1383,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+1385,1384,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,4570
+1386,1385,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,9306
+1387,1386,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,12896
+1388,1387,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,14753
+1389,1388,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,22003
+1390,1389,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,14125
+1391,1390,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,16373
+1392,1391,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,18572
+1393,1392,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,20114
+1394,1393,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,19526
+1395,1394,Pakistan,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,20061
+1396,1395,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2000,,300083
+1397,1396,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2001,,297188
+1398,1397,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2002,,312011
+1399,1398,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2003,,365829
+1400,1399,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2004,,425110
+1401,1400,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2005,,439125
+1402,1401,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2006,,490702
+1403,1402,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2007,,550458
+1404,1403,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2008,,608942
+1405,1404,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2009,,476091
+1406,1405,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2010,,516955
+1407,1406,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2011,,585313
+1408,1407,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2012,,558461
+1409,1408,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2013,,567987
+1410,1409,Perancis,Neraca Perdagangan beberapa Negara,Ekspor,2014,,571234
+1411,1410,Perancis,Neraca Perdagangan beberapa Negara,Impor,2000,,311029
+1412,1411,Perancis,Neraca Perdagangan beberapa Negara,Impor,2001,,302015
+1413,1412,Perancis,Neraca Perdagangan beberapa Negara,Impor,2002,,312164
+1414,1413,Perancis,Neraca Perdagangan beberapa Negara,Impor,2003,,370574
+1415,1414,Perancis,Neraca Perdagangan beberapa Negara,Impor,2004,,443056
+1416,1415,Perancis,Neraca Perdagangan beberapa Negara,Impor,2005,,485242
+1417,1416,Perancis,Neraca Perdagangan beberapa Negara,Impor,2006,,546505
+1418,1417,Perancis,Neraca Perdagangan beberapa Negara,Impor,2007,,631447
+1419,1418,Perancis,Neraca Perdagangan beberapa Negara,Impor,2008,,715783
+1420,1419,Perancis,Neraca Perdagangan beberapa Negara,Impor,2009,,560484
+1421,1420,Perancis,Neraca Perdagangan beberapa Negara,Impor,2010,,608652
+1422,1421,Perancis,Neraca Perdagangan beberapa Negara,Impor,2011,,712895
+1423,1422,Perancis,Neraca Perdagangan beberapa Negara,Impor,2012,,666715
+1424,1423,Perancis,Neraca Perdagangan beberapa Negara,Impor,2013,,671257
+1425,1424,Perancis,Neraca Perdagangan beberapa Negara,Impor,2014,,660293
+1426,1425,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,10947
+1427,1426,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,4826
+1428,1427,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,154
+1429,1428,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,4745
+1430,1429,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,17947
+1431,1430,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,46116
+1432,1431,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,55803
+1433,1432,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,80989
+1434,1433,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,106840
+1435,1434,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,84393
+1436,1435,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,91697
+1437,1436,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,127582
+1438,1437,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,108254
+1439,1438,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,103270
+1440,1439,Perancis,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,89059
+1441,1440,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2000,,137806
+1442,1441,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2001,,121755
+1443,1442,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2002,,125177
+1444,1443,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2003,,144183
+1445,1444,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2004,,198633
+1446,1445,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2005,,229652
+1447,1446,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2006,,271809
+1448,1447,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2007,,299270
+1449,1448,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2008,,338176
+1450,1449,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2009,,269832
+1451,1450,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2010,,351867
+1452,1451,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2011,,409503
+1453,1452,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2012,,408393
+1454,1453,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2013,,410250
+1455,1454,Singapura,Neraca Perdagangan beberapa Negara,Ekspor,2014,,409769
+1456,1455,Singapura,Neraca Perdagangan beberapa Negara,Impor,2000,,134546
+1457,1456,Singapura,Neraca Perdagangan beberapa Negara,Impor,2001,,116004
+1458,1457,Singapura,Neraca Perdagangan beberapa Negara,Impor,2002,,116441
+1459,1458,Singapura,Neraca Perdagangan beberapa Negara,Impor,2003,,127935
+1460,1459,Singapura,Neraca Perdagangan beberapa Negara,Impor,2004,,163851
+1461,1460,Singapura,Neraca Perdagangan beberapa Negara,Impor,2005,,200050
+1462,1461,Singapura,Neraca Perdagangan beberapa Negara,Impor,2006,,238711
+1463,1462,Singapura,Neraca Perdagangan beberapa Negara,Impor,2007,,263155
+1464,1463,Singapura,Neraca Perdagangan beberapa Negara,Impor,2008,,319781
+1465,1464,Singapura,Neraca Perdagangan beberapa Negara,Impor,2009,,245785
+1466,1465,Singapura,Neraca Perdagangan beberapa Negara,Impor,2010,,310791
+1467,1466,Singapura,Neraca Perdagangan beberapa Negara,Impor,2011,,365770
+1468,1467,Singapura,Neraca Perdagangan beberapa Negara,Impor,2012,,379723
+1469,1468,Singapura,Neraca Perdagangan beberapa Negara,Impor,2013,,373016
+1470,1469,Singapura,Neraca Perdagangan beberapa Negara,Impor,2014,,366247
+1471,1470,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,3259
+1472,1471,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,5752
+1473,1472,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,8736
+1474,1473,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,16248
+1475,1474,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,34782
+1476,1475,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,29602
+1477,1476,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,33098
+1478,1477,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,36115
+1479,1478,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,18396
+1480,1479,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,24048
+1481,1480,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,41076
+1482,1481,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,43733
+1483,1482,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,28670
+1484,1483,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,37234
+1485,1484,Singapura,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,43522
+1486,1485,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+1487,1486,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+1488,1487,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+1489,1488,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+1490,1489,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2004,,5757
+1491,1490,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2005,,6347
+1492,1491,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2006,,6886
+1493,1492,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2007,,7740
+1494,1493,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2008,,8137
+1495,1494,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2009,,7085
+1496,1495,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2010,,8307
+1497,1496,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2011,,10553
+1498,1497,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2012,,9784
+1499,1498,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2013,,10397
+1500,1499,Sri Lanka,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+1501,1500,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2000,,
+1502,1501,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2001,,
+1503,1502,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2002,,
+1504,1503,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2003,,
+1505,1504,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2004,,7973
+1506,1505,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2005,,8833
+1507,1506,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2006,,10259
+1508,1507,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2007,,11301
+1509,1508,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2008,,13953
+1510,1509,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2009,,10049
+1511,1510,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2010,,13512
+1512,1511,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2011,,20268
+1513,1512,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2012,,19102
+1514,1513,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2013,,17973
+1515,1514,Sri Lanka,Neraca Perdagangan beberapa Negara,Impor,2014,,
+1516,1515,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+1517,1516,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+1518,1517,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+1519,1518,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+1520,1519,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,2216
+1521,1520,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,2487
+1522,1521,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,3373
+1523,1522,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,3560
+1524,1523,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,5816
+1525,1524,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,2965
+1526,1525,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,5205
+1527,1526,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,9715
+1528,1527,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,9318
+1529,1528,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,7576
+1530,1529,Sri Lanka,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+1531,1530,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2000,,86962
+1532,1531,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2001,,75788
+1533,1532,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2002,,82965
+1534,1533,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2003,,102405
+1535,1534,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2004,,123307
+1536,1535,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2005,,130205
+1537,1536,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2006,,147236
+1538,1537,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2007,,168979
+1539,1538,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2008,,183907
+1540,1539,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2009,,131042
+1541,1540,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2010,,158090
+1542,1541,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2011,,187243
+1543,1542,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2012,,172725
+1544,1543,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2013,,167619
+1545,1544,Swedia,Neraca Perdagangan beberapa Negara,Ekspor,2014,,162588
+1546,1545,Swedia,Neraca Perdagangan beberapa Negara,Impor,2000,,72981
+1547,1546,Swedia,Neraca Perdagangan beberapa Negara,Impor,2001,,63471
+1548,1547,Swedia,Neraca Perdagangan beberapa Negara,Impor,2002,,67667
+1549,1548,Swedia,Neraca Perdagangan beberapa Negara,Impor,2003,,84197
+1550,1549,Swedia,Neraca Perdagangan beberapa Negara,Impor,2004,,100791
+1551,1550,Swedia,Neraca Perdagangan beberapa Negara,Impor,2005,,111324
+1552,1551,Swedia,Neraca Perdagangan beberapa Negara,Impor,2006,,126609
+1553,1552,Swedia,Neraca Perdagangan beberapa Negara,Impor,2007,,153463
+1554,1553,Swedia,Neraca Perdagangan beberapa Negara,Impor,2008,,168993
+1555,1554,Swedia,Neraca Perdagangan beberapa Negara,Impor,2009,,120262
+1556,1555,Swedia,Neraca Perdagangan beberapa Negara,Impor,2010,,148474
+1557,1556,Swedia,Neraca Perdagangan beberapa Negara,Impor,2011,,174730
+1558,1557,Swedia,Neraca Perdagangan beberapa Negara,Impor,2012,,164114
+1559,1558,Swedia,Neraca Perdagangan beberapa Negara,Impor,2013,,159665
+1560,1559,Swedia,Neraca Perdagangan beberapa Negara,Impor,2014,,159532
+1561,1560,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,13980
+1562,1561,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,12317
+1563,1562,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,15298
+1564,1563,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,18208
+1565,1564,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,22516
+1566,1565,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,18881
+1567,1566,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,20627
+1568,1567,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,15516
+1569,1568,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,14914
+1570,1569,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,10780
+1571,1570,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,9616
+1572,1571,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,12513
+1573,1572,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,8611
+1574,1573,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,7954
+1575,1574,Swedia,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,3056
+1576,1575,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2000,,69057
+1577,1576,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2001,,64919
+1578,1577,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2002,,68108
+1579,1578,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2003,,80324
+1580,1579,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2004,,96248
+1581,1580,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2005,,110178
+1582,1581,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2006,,130795
+1583,1582,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2007,,153858
+1584,1583,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2008,,175897
+1585,1584,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2009,,151910
+1586,1585,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2010,,193366
+1587,1586,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2011,,220221
+1588,1587,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2012,,227883
+1589,1588,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2013,,224863
+1590,1589,Thailand,Neraca Perdagangan beberapa Negara,Ekspor,2014,,225239
+1591,1590,Thailand,Neraca Perdagangan beberapa Negara,Impor,2000,,61924
+1592,1591,Thailand,Neraca Perdagangan beberapa Negara,Impor,2001,,61961
+1593,1592,Thailand,Neraca Perdagangan beberapa Negara,Impor,2002,,64645
+1594,1593,Thailand,Neraca Perdagangan beberapa Negara,Impor,2003,,75824
+1595,1594,Thailand,Neraca Perdagangan beberapa Negara,Impor,2004,,94410
+1596,1595,Thailand,Neraca Perdagangan beberapa Negara,Impor,2005,,118158
+1597,1596,Thailand,Neraca Perdagangan beberapa Negara,Impor,2006,,128654
+1598,1597,Thailand,Neraca Perdagangan beberapa Negara,Impor,2007,,141294
+1599,1598,Thailand,Neraca Perdagangan beberapa Negara,Impor,2008,,179168
+1600,1599,Thailand,Neraca Perdagangan beberapa Negara,Impor,2009,,134734
+1601,1600,Thailand,Neraca Perdagangan beberapa Negara,Impor,2010,,185121
+1602,1601,Thailand,Neraca Perdagangan beberapa Negara,Impor,2011,,229137
+1603,1602,Thailand,Neraca Perdagangan beberapa Negara,Impor,2012,,251464
+1604,1603,Thailand,Neraca Perdagangan beberapa Negara,Impor,2013,,249652
+1605,1604,Thailand,Neraca Perdagangan beberapa Negara,Impor,2014,,228200
+1606,1605,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,7133
+1607,1606,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,2959
+1608,1607,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,3463
+1609,1608,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,4499
+1610,1609,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,1838
+1611,1610,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,7980
+1612,1611,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,2142
+1613,1612,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,12563
+1614,1613,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,3270
+1615,1614,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,17176
+1616,1615,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,8245
+1617,1616,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,8916
+1618,1617,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,23581
+1619,1618,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,24789
+1620,1619,Thailand,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,2961
+1621,1620,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+1622,1621,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+1623,1622,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+1624,1623,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+1625,1624,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2004,,33994
+1626,1625,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2005,,51859
+1627,1626,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2006,,59208
+1628,1627,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2007,,69165
+1629,1628,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2008,,95021
+1630,1629,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2009,,57603
+1631,1630,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2010,,65745
+1632,1631,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2011,,92811
+1633,1632,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2012,,97340
+1634,1633,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2013,,86700
+1635,1634,Venezuela,Neraca Perdagangan beberapa Negara,Ekspor,2014,,
+1636,1635,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2000,,
+1637,1636,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2001,,
+1638,1637,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2002,,
+1639,1638,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2003,,
+1640,1639,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2004,,16679
+1641,1640,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2005,,24027
+1642,1641,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2006,,33615
+1643,1642,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2007,,46097
+1644,1643,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2008,,49602
+1645,1644,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2009,,40597
+1646,1645,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2010,,33815
+1647,1646,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2011,,38346
+1648,1647,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2012,,43501
+1649,1648,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2013,,46363
+1650,1649,Venezuela,Neraca Perdagangan beberapa Negara,Impor,2014,,
+1651,1650,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+1652,1651,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+1653,1652,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+1654,1653,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+1655,1654,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,17315
+1656,1655,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,27832
+1657,1656,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,25593
+1658,1657,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,23068
+1659,1658,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,45419
+1660,1659,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,17006
+1661,1660,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,31930
+1662,1661,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,54465
+1663,1662,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,53840
+1664,1663,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,40337
+1665,1664,Venezuela,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,
+1666,1665,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2000,,
+1667,1666,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2001,,
+1668,1667,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2002,,
+1669,1668,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2003,,
+1670,1669,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2004,,26485
+1671,1670,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2005,,32442
+1672,1671,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2006,,39606
+1673,1672,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2007,,48561
+1674,1673,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2008,,62685
+1675,1674,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2009,,57096
+1676,1675,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2010,,71658
+1677,1676,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2011,,94518
+1678,1677,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2012,,115458
+1679,1678,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2013,,132478
+1680,1679,Vietnam,Neraca Perdagangan beberapa Negara,Ekspor,2014,,149565
+1681,1680,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2000,,
+1682,1681,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2001,,
+1683,1682,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2002,,
+1684,1683,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2003,,
+1685,1684,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2004,,31969
+1686,1685,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2005,,36978
+1687,1686,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2006,,44410
+1688,1687,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2007,,62682
+1689,1688,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2008,,80714
+1690,1689,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2009,,69949
+1691,1690,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2010,,83779
+1692,1691,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2011,,104041
+1693,1692,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2012,,115101
+1694,1693,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2013,,131260
+1695,1694,Vietnam,Neraca Perdagangan beberapa Negara,Impor,2014,,148770
+1696,1695,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2000,,
+1697,1696,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2001,,
+1698,1697,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2002,,
+1699,1698,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2003,,
+1700,1699,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2004,,5484
+1701,1700,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2005,,4536
+1702,1701,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2006,,4805
+1703,1702,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2007,,14121
+1704,1703,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2008,,18029
+1705,1704,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2009,,12853
+1706,1705,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2010,,12121
+1707,1706,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2011,,9523
+1708,1707,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2012,,357
+1709,1708,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2013,,1218
+1710,1709,Vietnam,Neraca Perdagangan beberapa Negara,Neraca Perdagangan,2014,,795
